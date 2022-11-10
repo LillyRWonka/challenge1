@@ -12,7 +12,8 @@ N/A
 This page can be used as an example of how semantic HTML elements, alternative text for accesibility, and heading attributes are used.
 
 The final image should always looks like this:
-![alt text](assets/images/screenshot.png)
+https://lillyrwonka.github.io/challenge1/
+![mockup of website](/assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 N/A
