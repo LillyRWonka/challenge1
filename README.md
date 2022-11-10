@@ -1,9 +1,10 @@
-#<Lilly's-Challenge-1>
+#Lilly's-Challenge-1
 ## Decription
 Repo for the first challenge in UW Bootcamp.
 This was a refactoring of the Horiseon Social Solution Services.
 The sematics for the HTML document were added as well as alternative text.
 The heading attributes were also fixed to fall in sequential order. The title element was also changed to be concise and descriptive.
+https://lillyrwonka.github.io/challenge1/
 
 ## Installation
 N/A
@@ -12,7 +13,6 @@ N/A
 This page can be used as an example of how semantic HTML elements, alternative text for accesibility, and heading attributes are used.
 
 The final image should always looks like this:
-https://lillyrwonka.github.io/challenge1/
 ![mockup of website](/assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
